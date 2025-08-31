@@ -11,7 +11,7 @@ const app = express();
 
 const defaultOrigins = [
   "http://localhost:5173",
-  "https://virtual-assistant-ai.onrender.com",
+  "https://virtual-assistant-g0ys.onrender.com",
 ];
 const allowedOrigins = process.env.CLIENT_URL
   ? process.env.CLIENT_URL.split(",")

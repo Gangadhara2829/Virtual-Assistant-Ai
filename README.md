@@ -56,30 +56,7 @@ assistance using modern MERN stack technologies.
 **Deployment**
 - Vercel
 
----
 
-## 📂 Project Structure
-
-Virtual-Assistant-AI/
-│
-├── backend/
-│ ├── routes/
-│ ├── controllers/
-│ ├── models/
-│ ├── server.js
-│ └── package.json
-│
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── context/
-│ │ └── App.js
-│ └── package.json
-│
-├── .env (not included)
-└── README.md
 
 
 ---
